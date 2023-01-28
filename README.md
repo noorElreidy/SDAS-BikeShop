@@ -1,6 +1,6 @@
 # com2008-com3008
 
-Private Repo used by Noor Elreidy, Noor Sharif, Zakariyah Yunis and Vernon Yankson for Systems Design and Security module.
+Repo used by Noor Elreidy, Noor Sharif, Zakariyah Yunis and Vernon Yankson for Systems Design and Security module.
 
 This README contains the infromation you need to access the system, and to be able to use different accounts within the system to test it. 
 
